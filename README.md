@@ -1,5 +1,5 @@
 # Awesome Video Understanding
-> Understanding Video: Perceiving dynamic actions could be a huge advance in how software makes sense of the world.(from MIT Technology Review  December 6, 2017)
+> Understanding Video: Perceiving dynamic actions could be a huge advance in how software makes sense of the world.(from MIT Technology Review December 6, 2017)
 
 
 A list of resources for video understanding. Most of papers can be searched by scholar.google.com.
@@ -16,8 +16,8 @@ This list is updated on December 13th 2017.
 
 ## Table of Contents
 - [Papers](#papers)
-  - [Video Classification](#Video-Classification)
-  - [Action Recognition](#Action-Recognition)
+  - [Video Classification](#video-classification)
+  - [Action Recognition](#action-recognition)
 - [Video Datasets](#video-datasets)
 
 ## Papers
